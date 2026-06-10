@@ -1,5 +1,3 @@
-# iot-test-automation
-IoT device management platform test automation project.
 # IoT Test Automation
 
 ## 项目介绍
